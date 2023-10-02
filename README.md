@@ -1,16 +1,4 @@
-# bandhu
+# BANDHU APP
+BANDHU is a dedicated mobile application designed to provide comprehensive support, companionship, and assistance to elderly individuals, ensuring their well-being, safety, and a higher quality of life. It is a user-friendly and intuitive app tailored to address the unique needs and challenges faced by senior citizens.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/dhairya703/bandhu_app/assets/118664817/f03f440f-8601-4fd0-9f52-4aab813f5280)
