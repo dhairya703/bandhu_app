@@ -6,6 +6,8 @@ BANDHU is a dedicated mobile application designed to provide comprehensive suppo
 ![image](https://github.com/dhairya703/bandhu_app/assets/118664817/021ee473-32d6-4dd0-b94b-d9507d103ef8)
 ![image](https://github.com/dhairya703/bandhu_app/assets/118664817/b4beb35a-62ef-44b3-9504-39c2060ae67c)
 ![image](https://github.com/dhairya703/bandhu_app/assets/118664817/72a2b7f9-cb47-4ddc-88a5-961d9bec963a)
+This App also have a personalized chatbot using dialogueflow.
+
 Firebase Authentication is used for Login/SignUp.
 Firebase Notification for daily updates.
 Otp signup
